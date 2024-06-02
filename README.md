@@ -10,7 +10,8 @@
 
 💻 Expertise in Solidity, Truffle, Laravel, PHP, JavaScript, Sails.js, React.js, Node.js, and API Development
 
-🚀 Led projects like Dapp Mentors Academy and am spearheading a decentralized educational platform with Sia
+🚀 Led projects like Labyrinthe API and Labyrinthe Payment
+
 🎥 Active YouTube channel and technical tutorials, inspiring learners in blockchain and web3 technologies
 🎧 Music, songwriting, and food recipes enthusiast, fueling creativity and providing a refreshing break from technical pursuits
 📫 Open to new opportunities where I can contribute my skills and passion to shape systems and empower individuals in the blockchain and web3 space

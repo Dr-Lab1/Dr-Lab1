@@ -13,5 +13,6 @@
 🚀 Led projects like Labyrinthe API and Labyrinthe Payment
 
 🎥 Will have soon an Active YouTube channel and technical tutorials, inspiring learners in blockchain and web3 technologies
+
 🎧 Music, songwriting, and food recipes enthusiast, fueling creativity and providing a refreshing break from technical pursuits
 📫 Open to new opportunities where I can contribute my skills and passion to shape systems and empower individuals in the blockchain and web3 space

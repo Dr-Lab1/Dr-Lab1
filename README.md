@@ -17,3 +17,6 @@
 🎧 Music, songwriting, fueling creativity and providing a refreshing break from technical pursuits
 
 📫 Open to new opportunities where I can contribute my skills and passion to shape systems and empower individuals in the blockchain and web3 space
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

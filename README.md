@@ -21,11 +21,9 @@
 
 ## Stats
 
-### My private statistics
+### My private stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### My public statistics
+### My public stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1&show_icons=true&theme=radical)

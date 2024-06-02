@@ -27,5 +27,12 @@
 ### Public stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1&theme=gotham&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ## Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Lab1&layout=compact)](https://github.com/Dr-Lab1/github-readme-stats)

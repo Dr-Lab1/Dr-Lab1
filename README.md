@@ -29,3 +29,6 @@
 
 ## Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Lab1&layout=compact)](https://github.com/Dr-Lab1/github-readme-stats)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dr-Lab1)](https://github.com/Dr-Lab1/github-readme-stats)

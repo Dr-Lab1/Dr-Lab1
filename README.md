@@ -27,11 +27,12 @@
 ### Public stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1&theme=gotham&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+## Repos
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=LabyrintheNFT" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=LabyrintheNFT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=Labyrinthe-Payment" />
 </a>
 
 ## Top langs

@@ -19,8 +19,10 @@
 📫 Open to new opportunities where I can contribute my skills and passion to shape systems and empower individuals in the blockchain and web3 space
 
 
-### Statistiques
+## Stats
 
+### My private statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1)](https://github.com/anuraghazra/github-readme-stats)
 
+### My public statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)

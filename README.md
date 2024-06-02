@@ -29,10 +29,10 @@
 
 ## Repos
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=LabyrintheNFT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=Labyrinthe-Payment" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=Labyrinthe-Payment" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=LabyrintheNFT" />
 </a>
 
 ## Top langs

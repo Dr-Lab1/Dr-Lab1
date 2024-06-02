@@ -7,6 +7,7 @@
 👨‍💻 Over 4 years of experience in software development, with a focus on blockchain technology since 2022
 
 📝 Authored over 2 articles, developed free courses, and published a work (TFC) on blockchain, web3, and NFT
+
 💻 Expertise in Solidity, Truffle, Laravel, PHP, JavaScript, Sails.js, React.js, Node.js, and API Development
 🚀 Led projects like Dapp Mentors Academy and am spearheading a decentralized educational platform with Sia
 🎥 Active YouTube channel and technical tutorials, inspiring learners in blockchain and web3 technologies

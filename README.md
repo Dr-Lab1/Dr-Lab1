@@ -12,7 +12,7 @@
 
 🚀 Led projects like Labyrinthe NFT, Labyrinthe API, Labyrinthe Payment, Labyrinthe Card and more
 
-🎥 Will have soon an Active YouTube channel and technical tutorials, inspiring learners in blockchain and web3 technologies.
+🎥 Will have soon an Active YouTube channel and technical tutorials, inspiring learners in blockchain and web3 technologies
 
 🎧 Music, songwriting, fueling creativity and providing a refreshing break from technical pursuits.
 

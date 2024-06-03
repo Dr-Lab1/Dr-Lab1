@@ -8,7 +8,7 @@
 
 📝 Authored over 2 articles, developed free courses, and published a work (TFC) on blockchain, web3, and NFT
 
-💻 Expertise in Solidity, Truffle, Laravel, PHP, JavaScript, Sails.js, React.js, Node.js, and API Development.
+💻 Expertise in Solidity, Truffle, Laravel, PHP, JavaScript, Sails.js, React.js, Node.js, and API Development
 
 🚀 Led projects like Labyrinthe NFT, Labyrinthe API, Labyrinthe Payment, Labyrinthe Card and more.
 

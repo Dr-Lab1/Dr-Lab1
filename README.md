@@ -43,7 +43,7 @@
 <a href="https://github.com/Dr-Lab1/FullStack-App-Laravel-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=FullStack-App-Laravel-React" />
 </a>
-<a href="https://github.com/Dr-Lab1/FullStack-App-Laravel-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=FullStack-App-Laravel-React" />
+<a href="https://github.com/Dr-Lab1/school_admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dr-Lab1&repo=school_admin" />
 </a>
 

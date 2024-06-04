@@ -28,7 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-Lab1&theme=gotham&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Lab1&layout=compact)](https://github.com/Dr-Lab1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Lab1)](https://github.com/Dr-Lab1/github-readme-stats)
 
 ## Repositories
 <a href="https://github.com/Dr-Lab1/Labyrinthe-Payment">

@@ -1,6 +1,8 @@
 ## Hi, I'm Dr-Lab1
 
 ### Ranked [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Dr-Lab1.svg)](https://user-badge.committers.top/congo_kinshasa/Dr-Lab1) in the DRC - Kinshasa
+
+[![](https://visitcount.itsvg.in/api?id=Dr-Lab1&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
  
 🌱 Specializing in Blockchain and Fullstack Software Development, Technical Instruction, and Content Creation
  

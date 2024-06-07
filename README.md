@@ -2,8 +2,6 @@
 
 ### Ranked [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Dr-Lab1.svg)](https://user-badge.committers.top/congo_kinshasa/Dr-Lab1) in the DRC - Kinshasa
 
-![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Dr-Lab1.svg)
-
 🌱 Specializing in Blockchain and Fullstack Software Development, Technical Instruction, and Content Creation
  
 👨‍💻 Over 4 years of experience in software development, with a focus on blockchain technology since 2022

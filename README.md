@@ -16,7 +16,7 @@
 🎧 Music, songwriting, fueling creativity and providing a refreshing break from technical pursuits
 
 📫 Open to new opportunities where I can contribute my skills and passion to shape systems and empower individuals in the blockchain and web3 space
-
+ 
  
 ## Stats
 

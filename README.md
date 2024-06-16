@@ -2,7 +2,7 @@
  
  
 🌱 Specializing in Blockchain and Fullstack Software Development, Technical Instruction, and Content Creation
-  
+   
 👨‍💻 Over 4 years of experience in software development, with a focus on blockchain technology since 2022
  
 📝 Authored over 2 articles, developed free courses, and published a work (TFC) on blockchain, web3, and NFT
